@@ -43,3 +43,5 @@ Note: wireshark should not be used to analyze network traffic
 - https://techcommunity.microsoft.com/t5/security-compliance-and-identity/using-microsoft-defender-for-identity-data-to-make-powerful/ba-p/2404305
 - https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/hunt-for-threats-using-events-captured-by-azure-atp-on-your/ba-p/1598212
 - https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries/
+
+- https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance
