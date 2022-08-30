@@ -1,4 +1,4 @@
-# mdi
+# Microsoft Defender for Identity
 
 Documentation:
 - https://aka.ms/mdi
@@ -8,6 +8,9 @@ Version history:
 
 Portal:
 - https://portal.atp.azure.com
+
+Current alerts:
+- https://docs.microsoft.com/en-us/defender-for-identity/alerts-overview
 
 Community:
 - https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/bd-p/AzureAdvancedThreatProtection
@@ -25,3 +28,8 @@ Community:
 
 ## Winpcap vs Npcap
 - https://docs.microsoft.com/en-us/defender-for-identity/technical-faq#how-do-i-download-and-install-or-upgrade-the-npcap-driver
+
+## 3rd party links
+- https://attack.mitre.org/
+- https://adsecurity.org/?page_id=1821
+- https://bloodhound.readthedocs.io/en/latest/index.html
