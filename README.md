@@ -15,9 +15,10 @@ Current alerts:
 Community:
 - https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/bd-p/AzureAdvancedThreatProtection
 
-## Install tips
+## Install tips (sizing, auditing settings + ports needed)
 - https://aka.ms/atasizingtool
 - https://docs.microsoft.com/en-us/defender-for-identity/configure-windows-event-collection
+- https://docs.microsoft.com/en-us/defender-for-identity/prerequisites
 
 ## Remote sam
 - https://docs.microsoft.com/en-us/defender-for-identity/remote-calls-sam
@@ -28,6 +29,10 @@ Community:
 
 ## Winpcap vs Npcap
 - https://docs.microsoft.com/en-us/defender-for-identity/technical-faq#how-do-i-download-and-install-or-upgrade-the-npcap-driver
+
+## netmon download link
+Note: wireshark should not be used to analyze network traffic 
+- https://www.microsoft.com/en-us/Download/confirmation.aspx?id=4865
 
 ## 3rd party links
 - https://attack.mitre.org/
