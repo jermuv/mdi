@@ -1,5 +1,7 @@
 # Microsoft Defender for Identity
 
+https://aka.ms/mdininja
+
 Documentation:
 - https://aka.ms/mdi
 
