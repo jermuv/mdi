@@ -3,9 +3,10 @@
 Version history:
 - https://docs.microsoft.com/en-us/defender-for-identity/whats-new
 
+Portal:
+- https://portal.atp.azure.com
 
 ## install tips
-
 - http://aka.ms/atasizingtool
 - https://docs.microsoft.com/en-us/defender-for-identity/configure-windows-event-collection
 
