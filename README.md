@@ -31,7 +31,7 @@ Community:
 - https://docs.microsoft.com/en-us/defender-for-identity/technical-faq#how-do-i-download-and-install-or-upgrade-the-npcap-driver
 
 ## netmon download link
-Note: wireshark should not be used to analyze network traffic 
+Note: wireshark should not be used to analyze the network traffic 
 - https://www.microsoft.com/en-us/Download/confirmation.aspx?id=4865
 
 ## 3rd party links
