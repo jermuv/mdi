@@ -1,5 +1,8 @@
 # mdi
 
+Documentation:
+- https://aka.ms/mdi
+
 Version history:
 - https://docs.microsoft.com/en-us/defender-for-identity/whats-new
 
@@ -10,7 +13,7 @@ Community:
 - https://techcommunity.microsoft.com/t5/microsoft-defender-for-identity/bd-p/AzureAdvancedThreatProtection
 
 ## install tips
-- http://aka.ms/atasizingtool
+- https://aka.ms/atasizingtool
 - https://docs.microsoft.com/en-us/defender-for-identity/configure-windows-event-collection
 
 ## Remote sam
